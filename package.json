@@ -1,0 +1,14 @@
+{
+  "name": "supreena",
+  "version": "1.0.0",
+  "description": "Create a file with the name of ‘**webapp.js**’ and run a ‘**node.js**’ server which displays a simple website with the following routes. Please perform the following steps to perform the task.",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
